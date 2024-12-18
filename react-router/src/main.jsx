@@ -8,7 +8,7 @@ import {
   Route,
   RouterProvider,
 } from "react-router-dom";
-import Home from "./components/home.jsx";
+import Home from "./components/Home.jsx";
 import Layout from "./Layout.jsx";
 import SectionA from "./components/SectionA.jsx";
 import SectionB from "./components/SectionB.jsx";

@@ -2,7 +2,7 @@ import React from "react";
 
 const SectionA = () => {
   return (
-    <div className="h-[400px] p-4 border-2 border-red-500 md:h-[600px]  flex justify-center items-center">
+    <div className="h-[400px] p-4  md:h-[600px]  flex justify-center items-center">
       <div className="w-screen md:w-[400px] flex flex-col gap-4">
         <h1 className="md:text-2xl font-bold drop-shadow-sm">
           Pros of React Router:
